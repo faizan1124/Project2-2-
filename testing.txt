@@ -1,4 +1,4 @@
-part1Test1.txt FXA5716
+Project2-1 Test.txt FXA5716
 PREMove: Player 1, (Row: 7, Col: 1)
 PREMove: Player 2, (Row: 6, Col: 4)
 PREMove: Player 1, (Row: 11, Col: 3)
